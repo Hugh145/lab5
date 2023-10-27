@@ -8,5 +8,7 @@ class HelloWorld
     { 
         System.out.println("Hello, World");
         System.out.println("This is adding new line in the hello world file");
+        System.out.println("This is adding new line of text");
+
     } 
 }
